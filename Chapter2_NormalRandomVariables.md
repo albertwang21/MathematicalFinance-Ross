@@ -20,6 +20,7 @@ and variance ![](http://latex.codecogs.com/gif.latex?%5Csigma%5E2)
 - Approximation function to ![](http://latex.codecogs.com/gif.latex?%5CPhi%28x%29) (ref. to p25)
 - *Y* is a lognormal random variable if *X* is a normal random variable with parameters ![](http://latex.codecogs.com/gif.latex?%5Cmu) 
 and ![](http://latex.codecogs.com/gif.latex?%5Csigma)
+
 ![](http://latex.codecogs.com/gif.latex?Y%3De%5E%7BX%7D)
 
 
